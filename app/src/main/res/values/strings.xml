@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">acoustic gestures</string>
+    <string name="button_start">Start</string>
+</resources>
