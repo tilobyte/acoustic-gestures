@@ -1,2 +1,2 @@
 # acoustic-gestures
-cse 562 homework 1
+cse 5xx homework 1
